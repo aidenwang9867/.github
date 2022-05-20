@@ -1,3 +1,0 @@
-# Security policy file (for testing only)
-
-Just left something here...
