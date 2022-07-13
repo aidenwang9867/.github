@@ -1,2 +1,2 @@
 # .github
-Global config files for all repo under my account aidenwang9867
+Global config files for all repo under owner `aidenwang9867`
